@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!.zshrc
+!.p10k.zsh
+!.gitconfig
